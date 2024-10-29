@@ -19,11 +19,15 @@ public class DestroyPrefabs : MonoBehaviour
     {
         if (transform.position.z > topBound)
         {
+            // to destroy the projectile prefab
             Destroy(gameObject);
+            Debug.Log("GAME OVER");
         }
         else if (transform.position.z < floorBound)
         {
+            //to destroy the animal prefabs
             Destroy(gameObject);
+            Debug.Log("GAME OVER");
         }
     }
 }
