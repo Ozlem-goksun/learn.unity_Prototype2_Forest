@@ -8,6 +8,6 @@ In this little game, you can move left and right by clicking the "A" and "D" key
 ## Challenge 2
 As second task of this training, I fixed the dogs running from above and the balls not coming randomly.
 
-[<img src="https://github.com/Ozlem-goksun/learn.unity_Prototype2_Forest/blob/main/WebGl%20Builds/Challenge%202/challenge2.gif" alt="challenge2" style="max-width: 100%; height: auto;">](https://play.unity.com/en/games/e99926ee-4a25-44ef-b40e-2b3b3fac7898/junior-programmer-challenge1)
+[<img src="https://github.com/Ozlem-goksun/learn.unity_Prototype2_Forest/blob/main/WebGl%20Builds/Challenge%202/challenge2.gif" alt="challenge2" style="max-width: 100%; height: auto;">](https://play.unity.com/en/games/ec5a1cfe-eb39-42fd-98b0-189c1fa7d422/junior-programmer-challenge-2)
 
 
